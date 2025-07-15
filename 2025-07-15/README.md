@@ -1,7 +1,13 @@
 # Hex Hackathon
 
+### Event 15-July-2025 : New York @ Hex.tech Headquarters
+
+https://hex.tech/
 
 https://lu.ma/prjumowa
+
+https://github.com/tspannhw/hackathons/blob/main/2025-07-15/15July2025_Hex%2BSnowflake%20Hackathon%20NYC.pdf
+
 
 
 ![photos](https://github.com/tspannhw/hackathons/blob/main/2025-07-15/2025-07-15_09-13-06_554.jpeg?raw=true)
